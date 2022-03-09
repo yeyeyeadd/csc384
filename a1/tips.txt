@@ -1,0 +1,4 @@
+/** WRITE YOUR TIPS IN THIS FILE **/
+1. First, to consider dead boxes case, if anybody is unable to move or no storage it can reach, (i.e. a box at a corner or side box has no side storage for it)we should return infinite immediately.
+
+2. Since we have time bound, so do not make too many loops. Try to let each loop handle more jobs, and reduce the total iteration. 
